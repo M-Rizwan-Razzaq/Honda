@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/M-Rizwan-Razzaq/Honda.git/static/css/main.2adad51f.css",
+    "main.js": "/M-Rizwan-Razzaq/Honda.git/static/js/main.69137931.js",
+    "static/js/453.edd4cd60.chunk.js": "/M-Rizwan-Razzaq/Honda.git/static/js/453.edd4cd60.chunk.js",
+    "index.html": "/M-Rizwan-Razzaq/Honda.git/index.html",
+    "main.2adad51f.css.map": "/M-Rizwan-Razzaq/Honda.git/static/css/main.2adad51f.css.map",
+    "main.69137931.js.map": "/M-Rizwan-Razzaq/Honda.git/static/js/main.69137931.js.map",
+    "453.edd4cd60.chunk.js.map": "/M-Rizwan-Razzaq/Honda.git/static/js/453.edd4cd60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2adad51f.css",
+    "static/js/main.69137931.js"
+  ]
+}
